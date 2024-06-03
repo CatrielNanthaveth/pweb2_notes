@@ -1,0 +1,24 @@
+{
+  "name": "notes_by-carti",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@ant-design/icons": "^5.3.6",
+    "axios": "^1.6.8",
+    "formik": "^2.4.5",
+    "next": "14.2.2",
+    "react": "^18",
+    "react-dom": "^18",
+    "sweetalert2": "^11.10.8"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.2"
+  }
+}

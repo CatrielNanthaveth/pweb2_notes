@@ -1,0 +1,27 @@
+.main {
+    text-align: center;
+    padding: 2rem;
+}
+
+.button {
+    background-color: rgb(199, 211, 221);
+    border-radius: 2px;
+    padding: 1rem;
+    width: 50vw;
+    text-align: center;
+
+}
+
+.button_group {
+    margin-top: 20vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    flex-grow: 2;
+    gap: 2rem;
+}
+
+.link {
+    color: black;
+}
